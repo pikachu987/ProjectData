@@ -1,86 +1,85 @@
-[
-	{
+[{
 		"nameDefault": "FakeCall",
 		"nameEn": "FakeCall",
-	  	"nameKo": "가짜전화",
+		"nameKo": "가짜전화",
 		"url": "https://itunes.apple.com/us/app/id1330370713?ls=1&mt=8",
-	    "icon": "https://raw.githubusercontent.com/pikachu987/ProjectData/master/FakeCall/icon.png",
-	    "hintDefault": [
-	    	"https://raw.githubusercontent.com/pikachu987/ProjectData/master/FakeCall/hint_1_en.png",
-	    	"https://raw.githubusercontent.com/pikachu987/ProjectData/master/FakeCall/hint_2_en.png",
-	    	"https://raw.githubusercontent.com/pikachu987/ProjectData/master/FakeCall/hint_3_en.png",
-	    	"https://raw.githubusercontent.com/pikachu987/ProjectData/master/FakeCall/hint_4_en.png",
-	    	"https://raw.githubusercontent.com/pikachu987/ProjectData/master/FakeCall/hint_5_en.png",
-	    ],
-	    "hintEn": [
-	    	"https://raw.githubusercontent.com/pikachu987/ProjectData/master/FakeCall/hint_1_en.png",
-	    	"https://raw.githubusercontent.com/pikachu987/ProjectData/master/FakeCall/hint_2_en.png",
-	    	"https://raw.githubusercontent.com/pikachu987/ProjectData/master/FakeCall/hint_3_en.png",
-	    	"https://raw.githubusercontent.com/pikachu987/ProjectData/master/FakeCall/hint_4_en.png",
-	    	"https://raw.githubusercontent.com/pikachu987/ProjectData/master/FakeCall/hint_5_en.png",
-	    ],
-	    "hintKo": [
-	    	"https://raw.githubusercontent.com/pikachu987/ProjectData/master/FakeCall/hint_1_ko.png",
-	    	"https://raw.githubusercontent.com/pikachu987/ProjectData/master/FakeCall/hint_2_ko.png",
-	    	"https://raw.githubusercontent.com/pikachu987/ProjectData/master/FakeCall/hint_3_ko.png",
-	    	"https://raw.githubusercontent.com/pikachu987/ProjectData/master/FakeCall/hint_4_ko.png",
-	    	"https://raw.githubusercontent.com/pikachu987/ProjectData/master/FakeCall/hint_5_ko.png",
-	    ]
+		"icon": "https://raw.githubusercontent.com/pikachu987/ProjectData/master/FakeCall/icon.png",
+		"hintDefault": [
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/FakeCall/hint_1_en.png",
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/FakeCall/hint_2_en.png",
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/FakeCall/hint_3_en.png",
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/FakeCall/hint_4_en.png",
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/FakeCall/hint_5_en.png"
+		],
+		"hintEn": [
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/FakeCall/hint_1_en.png",
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/FakeCall/hint_2_en.png",
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/FakeCall/hint_3_en.png",
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/FakeCall/hint_4_en.png",
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/FakeCall/hint_5_en.png"
+		],
+		"hintKo": [
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/FakeCall/hint_1_ko.png",
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/FakeCall/hint_2_ko.png",
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/FakeCall/hint_3_ko.png",
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/FakeCall/hint_4_ko.png",
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/FakeCall/hint_5_ko.png"
+		]
 	},
 	{
 		"nameDefault": "움짤 그림 만들기",
 		"nameEn": "움짤 그림 만들기",
-	  	"nameKo": "움짤 그림 만들기",
+		"nameKo": "움짤 그림 만들기",
 		"url": "https://itunes.apple.com/us/app/id1332469018?ls=1&mt=8",
-	    "icon": "https://raw.githubusercontent.com/pikachu987/ProjectData/master/MakeGIF/icon.png",
-	    "hintDefault": [
-	    	"https://raw.githubusercontent.com/pikachu987/ProjectData/master/MakeGIF/hint_1_ko.png",
-	    	"https://raw.githubusercontent.com/pikachu987/ProjectData/master/MakeGIF/hint_2_ko.png",
-	    	"https://raw.githubusercontent.com/pikachu987/ProjectData/master/MakeGIF/hint_3_ko.png",
-	    	"https://raw.githubusercontent.com/pikachu987/ProjectData/master/MakeGIF/hint_4_ko.png",
-	    	"https://raw.githubusercontent.com/pikachu987/ProjectData/master/MakeGIF/hint_5_ko.png",
-	    ],
-	    "hintEn": [
-	    	"https://raw.githubusercontent.com/pikachu987/ProjectData/master/MakeGIF/hint_1_ko.png",
-	    	"https://raw.githubusercontent.com/pikachu987/ProjectData/master/MakeGIF/hint_2_ko.png",
-	    	"https://raw.githubusercontent.com/pikachu987/ProjectData/master/MakeGIF/hint_3_ko.png",
-	    	"https://raw.githubusercontent.com/pikachu987/ProjectData/master/MakeGIF/hint_4_ko.png",
-	    	"https://raw.githubusercontent.com/pikachu987/ProjectData/master/MakeGIF/hint_5_ko.png",
-	    ],
-	    "hintKo": [
-	    	"https://raw.githubusercontent.com/pikachu987/ProjectData/master/MakeGIF/hint_1_ko.png",
-	    	"https://raw.githubusercontent.com/pikachu987/ProjectData/master/MakeGIF/hint_2_ko.png",
-	    	"https://raw.githubusercontent.com/pikachu987/ProjectData/master/MakeGIF/hint_3_ko.png",
-	    	"https://raw.githubusercontent.com/pikachu987/ProjectData/master/MakeGIF/hint_4_ko.png",
-	    	"https://raw.githubusercontent.com/pikachu987/ProjectData/master/MakeGIF/hint_5_ko.png",
-	    ]
+		"icon": "https://raw.githubusercontent.com/pikachu987/ProjectData/master/MakeGIF/icon.png",
+		"hintDefault": [
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/MakeGIF/hint_1_ko.png",
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/MakeGIF/hint_2_ko.png",
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/MakeGIF/hint_3_ko.png",
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/MakeGIF/hint_4_ko.png",
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/MakeGIF/hint_5_ko.png"
+		],
+		"hintEn": [
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/MakeGIF/hint_1_ko.png",
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/MakeGIF/hint_2_ko.png",
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/MakeGIF/hint_3_ko.png",
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/MakeGIF/hint_4_ko.png",
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/MakeGIF/hint_5_ko.png"
+		],
+		"hintKo": [
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/MakeGIF/hint_1_ko.png",
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/MakeGIF/hint_2_ko.png",
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/MakeGIF/hint_3_ko.png",
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/MakeGIF/hint_4_ko.png",
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/MakeGIF/hint_5_ko.png"
+		]
 	},
 	{
 		"nameDefault": "대본공부",
 		"nameEn": "대본공부",
-	  	"nameKo": "대본공부",
+		"nameKo": "대본공부",
 		"url": "https://itunes.apple.com/us/app/id1319037733?ls=1&mt=8",
-	    "icon": "https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/icon.png",
-	    "hintDefault": [
-	    	"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_1_ko.png",
-	    	"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_2_ko.png",
-	    	"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_3_ko.png",
-	    	"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_4_ko.png",
-	    	"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_5_ko.png",
-	    ],
-	    "hintEn": [
-	    	"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_1_ko.png",
-	    	"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_2_ko.png",
-	    	"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_3_ko.png",
-	    	"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_4_ko.png",
-	    	"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_5_ko.png",
-	    ],
-	    "hintKo": [
-	    	"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_1_ko.png",
-	    	"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_2_ko.png",
-	    	"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_3_ko.png",
-	    	"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_4_ko.png",
-	    	"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_5_ko.png",
-	    ]
+		"icon": "https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/icon.png",
+		"hintDefault": [
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_1_ko.png",
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_2_ko.png",
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_3_ko.png",
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_4_ko.png",
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_5_ko.png"
+		],
+		"hintEn": [
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_1_ko.png",
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_2_ko.png",
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_3_ko.png",
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_4_ko.png",
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_5_ko.png"
+		],
+		"hintKo": [
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_1_ko.png",
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_2_ko.png",
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_3_ko.png",
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_4_ko.png",
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_5_ko.png"
+		]
 	}
 ]
