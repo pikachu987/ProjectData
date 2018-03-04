@@ -61,25 +61,25 @@
 		"url": "https://itunes.apple.com/us/app/id1319037733?ls=1&mt=8",
 		"icon": "https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/icon.png",
 		"hintDefault": [
-			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_1_ko.png",
-			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_2_ko.png",
-			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_3_ko.png",
-			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_4_ko.png",
-			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_5_ko.png"
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_1_ko.jpg",
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_2_ko.jpg",
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_3_ko.jpg",
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_4_ko.jpg",
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_5_ko.jpg"
 		],
 		"hintEn": [
-			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_1_ko.png",
-			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_2_ko.png",
-			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_3_ko.png",
-			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_4_ko.png",
-			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_5_ko.png"
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_1_ko.jpg",
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_2_ko.jpg",
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_3_ko.jpg",
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_4_ko.jpg",
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_5_ko.jpg"
 		],
 		"hintKo": [
-			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_1_ko.png",
-			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_2_ko.png",
-			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_3_ko.png",
-			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_4_ko.png",
-			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_5_ko.png"
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_1_ko.jpg",
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_2_ko.jpg",
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_3_ko.jpg",
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_4_ko.jpg",
+			"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Script/hint_5_ko.jpg"
 		]
 	}
 ]
