@@ -27,6 +27,34 @@
 		]
 	},
 	{
+			"nameDefault": "Punto",
+			"nameEn": "Punto",
+			"nameKo": "푼토",
+			"url": "https://itunes.apple.com/us/app/id1402485933?ls=1&mt=8",
+			"icon": "https://raw.githubusercontent.com/pikachu987/ProjectData/master/Punto/icon.png",
+			"hintDefault": [
+				"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Punto/hint_1_en.png",
+				"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Punto/hint_2_en.png",
+				"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Punto/hint_3_en.png",
+				"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Punto/hint_4_en.png",
+				"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Punto/hint_5_en.png"
+			],
+			"hintEn": [
+				"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Punto/hint_1_en.png",
+				"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Punto/hint_2_en.png",
+				"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Punto/hint_3_en.png",
+				"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Punto/hint_4_en.png",
+				"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Punto/hint_5_en.png"
+			],
+			"hintKo": [
+				"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Punto/hint_1_ko.png",
+				"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Punto/hint_2_ko.png",
+				"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Punto/hint_3_ko.png",
+				"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Punto/hint_4_ko.png",
+				"https://raw.githubusercontent.com/pikachu987/ProjectData/master/Punto/hint_5_ko.png"
+			]
+		},
+	{
 		"nameDefault": "움짤 그림 만들기",
 		"nameEn": "움짤 그림 만들기",
 		"nameKo": "움짤 그림 만들기",
