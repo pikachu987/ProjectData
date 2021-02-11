@@ -1,5 +1,36 @@
 [
 	{
+	  "nameDefault": "PatternManager",
+	  "nameEn": "PatternManager",
+	  "nameKo": "패턴관리",
+	  "descDefault": "Life pattern, exercise pattern, fitness",
+	  "descEn": "Life pattern, exercise pattern, fitness",
+	  "descKo": "생활패턴, 운동패턴, 피트니스‪ 관리",
+	  "url": "https://apps.apple.com/us/app/patternmanage-life-fitness/id1471091967?ign-mpt=uo%3D4",
+	  "icon": "https://pikachu987.github.io/ProjectData/Resources/Pattern/icon.png",
+	  "hintDefault": [
+		"https://pikachu987.github.io/ProjectData/Resources/Pattern/hint_1_en.png",
+		"https://pikachu987.github.io/ProjectData/Resources/Pattern/hint_2_en.png",
+		"https://pikachu987.github.io/ProjectData/Resources/Pattern/hint_3_en.png",
+		"https://pikachu987.github.io/ProjectData/Resources/Pattern/hint_4_en.png",
+		"https://pikachu987.github.io/ProjectData/Resources/Pattern/hint_5_en.png"
+	  ],
+	  "hintEn": [
+		"https://pikachu987.github.io/ProjectData/Resources/Pattern/hint_1_en.png",
+		"https://pikachu987.github.io/ProjectData/Resources/Pattern/hint_2_en.png",
+		"https://pikachu987.github.io/ProjectData/Resources/Pattern/hint_3_en.png",
+		"https://pikachu987.github.io/ProjectData/Resources/Pattern/hint_4_en.png",
+		"https://pikachu987.github.io/ProjectData/Resources/Pattern/hint_5_en.png"
+	  ],
+	  "hintKo": [
+		"https://pikachu987.github.io/ProjectData/Resources/Pattern/hint_1_ko.png",
+		"https://pikachu987.github.io/ProjectData/Resources/Pattern/hint_2_ko.png",
+		"https://pikachu987.github.io/ProjectData/Resources/Pattern/hint_3_ko.png",
+		"https://pikachu987.github.io/ProjectData/Resources/Pattern/hint_4_ko.png",
+		"https://pikachu987.github.io/ProjectData/Resources/Pattern/hint_5_ko.png"
+	  ]
+	},
+	{
 	  "nameDefault": "Punto",
 	  "nameEn": "Punto",
 	  "nameKo": "푼토",
@@ -28,6 +59,37 @@
 		"https://pikachu987.github.io/ProjectData/Resources/Punto/hint_3_ko.png",
 		"https://pikachu987.github.io/ProjectData/Resources/Punto/hint_4_ko.png",
 		"https://pikachu987.github.io/ProjectData/Resources/Punto/hint_5_ko.png"
+	  ]
+	},
+	{
+	  "nameDefault": "대본공부",
+	  "nameEn": "대본공부",
+	  "nameKo": "대본공부",
+	  "descDefault": "모바일로 대본을 쉽게 외우고 공부하자!",
+	  "descEn": "모바일로 대본을 쉽게 외우고 공부하자!",
+	  "descKo": "모바일로 대본을 쉽게 외우고 공부하자!",
+	  "url": "https://itunes.apple.com/us/app/id1319037733?ls=1&mt=8",
+	  "icon": "https://pikachu987.github.io/ProjectData/Resources/Script/icon.png",
+	  "hintDefault": [
+		"https://pikachu987.github.io/ProjectData/Resources/Script/hint_1_ko.jpg",
+		"https://pikachu987.github.io/ProjectData/Resources/Script/hint_2_ko.jpg",
+		"https://pikachu987.github.io/ProjectData/Resources/Script/hint_3_ko.jpg",
+		"https://pikachu987.github.io/ProjectData/Resources/Script/hint_4_ko.jpg",
+		"https://pikachu987.github.io/ProjectData/Resources/Script/hint_5_ko.jpg"
+	  ],
+	  "hintEn": [
+		"https://pikachu987.github.io/ProjectData/Resources/Script/hint_1_ko.jpg",
+		"https://pikachu987.github.io/ProjectData/Resources/Script/hint_2_ko.jpg",
+		"https://pikachu987.github.io/ProjectData/Resources/Script/hint_3_ko.jpg",
+		"https://pikachu987.github.io/ProjectData/Resources/Script/hint_4_ko.jpg",
+		"https://pikachu987.github.io/ProjectData/Resources/Script/hint_5_ko.jpg"
+	  ],
+	  "hintKo": [
+		"https://pikachu987.github.io/ProjectData/Resources/Script/hint_1_ko.jpg",
+		"https://pikachu987.github.io/ProjectData/Resources/Script/hint_2_ko.jpg",
+		"https://pikachu987.github.io/ProjectData/Resources/Script/hint_3_ko.jpg",
+		"https://pikachu987.github.io/ProjectData/Resources/Script/hint_4_ko.jpg",
+		"https://pikachu987.github.io/ProjectData/Resources/Script/hint_5_ko.jpg"
 	  ]
 	},
 	{
@@ -62,35 +124,35 @@
 	  ]
 	},
 	{
-		"nameDefault": "Image Memo",
-		"nameEn": "Image Memo",
-		"nameKo": "그림 메모장",
-		"descDefault": "Drawing notes",
-		"descEn": "Drawing notes",
-		"descKo": "그림 그리면서 메모하기",
-		"url": "https://apps.apple.com/us/app/%EA%B7%B8%EB%A6%BC-%EB%A9%94%EB%AA%A8%EC%9E%A5/id1194457669?uo=4",
-		"icon": "https://pikachu987.github.io/ProjectData/Resources/Memo/icon.png",
-		"hintDefault": [
-		  "https://pikachu987.github.io/ProjectData/Resources/Memo/hint_1_ko.png",
-		  "https://pikachu987.github.io/ProjectData/Resources/Memo/hint_2_ko.png",
-		  "https://pikachu987.github.io/ProjectData/Resources/Memo/hint_3_ko.png",
-		  "https://pikachu987.github.io/ProjectData/Resources/Memo/hint_4_ko.png",
-		  "https://pikachu987.github.io/ProjectData/Resources/Memo/hint_5_ko.png"
-		],
-		"hintEn": [
-		  "https://pikachu987.github.io/ProjectData/Resources/Memo/hint_1_ko.png",
-		  "https://pikachu987.github.io/ProjectData/Resources/Memo/hint_2_ko.png",
-		  "https://pikachu987.github.io/ProjectData/Resources/Memo/hint_3_ko.png",
-		  "https://pikachu987.github.io/ProjectData/Resources/Memo/hint_4_ko.png",
-		  "https://pikachu987.github.io/ProjectData/Resources/Memo/hint_5_ko.png"
-		],
-		"hintKo": [
-		  "https://pikachu987.github.io/ProjectData/Resources/Memo/hint_1_ko.png",
-		  "https://pikachu987.github.io/ProjectData/Resources/Memo/hint_2_ko.png",
-		  "https://pikachu987.github.io/ProjectData/Resources/Memo/hint_3_ko.png",
-		  "https://pikachu987.github.io/ProjectData/Resources/Memo/hint_4_ko.png",
-		  "https://pikachu987.github.io/ProjectData/Resources/Memo/hint_5_ko.png"
-		]
+	  "nameDefault": "Image Memo",
+	  "nameEn": "Image Memo",
+	  "nameKo": "그림 메모장",
+	  "descDefault": "Drawing notes",
+	  "descEn": "Drawing notes",
+	  "descKo": "그림 그리면서 메모하기",
+	  "url": "https://apps.apple.com/us/app/%EA%B7%B8%EB%A6%BC-%EB%A9%94%EB%AA%A8%EC%9E%A5/id1194457669?uo=4",
+	  "icon": "https://pikachu987.github.io/ProjectData/Resources/Memo/icon.png",
+	  "hintDefault": [
+		"https://pikachu987.github.io/ProjectData/Resources/Memo/hint_1_ko.png",
+		"https://pikachu987.github.io/ProjectData/Resources/Memo/hint_2_ko.png",
+		"https://pikachu987.github.io/ProjectData/Resources/Memo/hint_3_ko.png",
+		"https://pikachu987.github.io/ProjectData/Resources/Memo/hint_4_ko.png",
+		"https://pikachu987.github.io/ProjectData/Resources/Memo/hint_5_ko.png"
+	  ],
+	  "hintEn": [
+		"https://pikachu987.github.io/ProjectData/Resources/Memo/hint_1_ko.png",
+		"https://pikachu987.github.io/ProjectData/Resources/Memo/hint_2_ko.png",
+		"https://pikachu987.github.io/ProjectData/Resources/Memo/hint_3_ko.png",
+		"https://pikachu987.github.io/ProjectData/Resources/Memo/hint_4_ko.png",
+		"https://pikachu987.github.io/ProjectData/Resources/Memo/hint_5_ko.png"
+	  ],
+	  "hintKo": [
+		"https://pikachu987.github.io/ProjectData/Resources/Memo/hint_1_ko.png",
+		"https://pikachu987.github.io/ProjectData/Resources/Memo/hint_2_ko.png",
+		"https://pikachu987.github.io/ProjectData/Resources/Memo/hint_3_ko.png",
+		"https://pikachu987.github.io/ProjectData/Resources/Memo/hint_4_ko.png",
+		"https://pikachu987.github.io/ProjectData/Resources/Memo/hint_5_ko.png"
+	  ]
 	},
 	{
 	  "nameDefault": "Image Edit",
@@ -121,37 +183,6 @@
 		"https://pikachu987.github.io/ProjectData/Resources/Editor/hint_3_ko.png",
 		"https://pikachu987.github.io/ProjectData/Resources/Editor/hint_4_ko.png",
 		"https://pikachu987.github.io/ProjectData/Resources/Editor/hint_5_ko.png"
-	  ]
-	},
-	{
-	  "nameDefault": "대본공부",
-	  "nameEn": "대본공부",
-	  "nameKo": "대본공부",
-	  "descDefault": "모바일로 대본을 쉽게 외우고 공부하자!",
-	  "descEn": "모바일로 대본을 쉽게 외우고 공부하자!",
-	  "descKo": "모바일로 대본을 쉽게 외우고 공부하자!",
-	  "url": "https://itunes.apple.com/us/app/id1319037733?ls=1&mt=8",
-	  "icon": "https://pikachu987.github.io/ProjectData/Resources/Script/icon.png",
-	  "hintDefault": [
-		"https://pikachu987.github.io/ProjectData/Resources/Script/hint_1_ko.jpg",
-		"https://pikachu987.github.io/ProjectData/Resources/Script/hint_2_ko.jpg",
-		"https://pikachu987.github.io/ProjectData/Resources/Script/hint_3_ko.jpg",
-		"https://pikachu987.github.io/ProjectData/Resources/Script/hint_4_ko.jpg",
-		"https://pikachu987.github.io/ProjectData/Resources/Script/hint_5_ko.jpg"
-	  ],
-	  "hintEn": [
-		"https://pikachu987.github.io/ProjectData/Resources/Script/hint_1_ko.jpg",
-		"https://pikachu987.github.io/ProjectData/Resources/Script/hint_2_ko.jpg",
-		"https://pikachu987.github.io/ProjectData/Resources/Script/hint_3_ko.jpg",
-		"https://pikachu987.github.io/ProjectData/Resources/Script/hint_4_ko.jpg",
-		"https://pikachu987.github.io/ProjectData/Resources/Script/hint_5_ko.jpg"
-	  ],
-	  "hintKo": [
-		"https://pikachu987.github.io/ProjectData/Resources/Script/hint_1_ko.jpg",
-		"https://pikachu987.github.io/ProjectData/Resources/Script/hint_2_ko.jpg",
-		"https://pikachu987.github.io/ProjectData/Resources/Script/hint_3_ko.jpg",
-		"https://pikachu987.github.io/ProjectData/Resources/Script/hint_4_ko.jpg",
-		"https://pikachu987.github.io/ProjectData/Resources/Script/hint_5_ko.jpg"
 	  ]
 	}
   ]
