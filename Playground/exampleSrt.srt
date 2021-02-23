@@ -5849,21 +5849,21 @@ is over</i>
 
 1250
 01:14:27,510 --> 01:14:29,476
-<i>♪ Hello, darkness</i>
+<font color="#efefef">♪ Hello, darkness</font>
 
 1251
 01:14:29,478 --> 01:14:31,914
-<i>♪ I'm ready to succumb</i>
+<font color="red">♪ I'm ready to succumb</font>
 
 1252
 01:14:34,283 --> 01:14:36,850
-<i>♪ I follow you around</i>
+<u>♪ I follow you around</u>
 
 1253
 01:14:36,852 --> 01:14:39,052
-<i>♪ I always have</i>
+<b>♪ I always have</b>
 
 1254
 01:14:39,054 --> 01:14:43,392
 <i>♪ But you've gone to a place
-I cannot find</i>
+I cannot find</i>

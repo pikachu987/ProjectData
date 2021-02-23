@@ -4497,16 +4497,16 @@ Retranslation by Sunset Shimmer
 난 살아났어
 <SYNC Start=6140864><P Class=KRCC>&nbsp;
 <SYNC Start=6141114><P Class=KRCC>
-그리고 너희도
+<i>글자 기울이기</i>
 <SYNC Start=6142366><P Class=KRCC>&nbsp;
 <SYNC Start=6145327><P Class=KRCC>
-우린 살아났어!
+<font face="궁서">글자체 바꾸기!</font>
 <SYNC Start=6146849><P Class=KRCC>&nbsp;
 <SYNC Start=6146979><P Class=KRCC>
-살아났다고!
+<b>진하게</b>
 <SYNC Start=6149023><P Class=KRCC>&nbsp;
 <SYNC Start=6150833><P Class=KRCC>
-좋은 이야기야
+<font color="#969696">좋은 이야기야</font>
 <SYNC Start=6152698><P Class=KRCC>&nbsp;
 </BODY>
 </SAMI>
