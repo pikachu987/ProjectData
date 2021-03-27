@@ -2,9 +2,9 @@
 	{
 	  "nameDefault": "VideoEditor",
 	  "nameEn": "VideoEditor",
-	  "nameKo": "비디오편집기",
-	  "descDefault": "Video time correction, cropping, rotation, mute editing",
-	  "descEn": "Video time correction, cropping, rotation, mute editing",
+	  "nameKo": "비디오 편집기",
+	  "descDefault": "Video time, cropping, rotation editing",
+	  "descEn": "Video time, cropping, rotation editing",
 	  "descKo": "비디오 시간수정, 자르기, 회전, 음소거 편집",
 	  "url": "https://apps.apple.com/us/app/videoeditor-crop-quality-mute/id1559471613?uo=4",
 	  "icon": "https://pikachu987.github.io/ProjectData/Resources/VideoEditor/icon.png?v=2",
