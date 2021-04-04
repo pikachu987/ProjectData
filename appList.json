@@ -1,5 +1,36 @@
 [
 	{
+		"nameDefault": "QR Code",
+		"nameEn": "QR Code",
+		"nameKo": "QR코드",
+		"descDefault": "Create and scan a QR code",
+		"descEn": "Create and scan a QR code",
+		"descKo": "QR 코드 만들기, 스캔하기",
+		"url": "https://apps.apple.com/us/app/qr-code-create-view-scan/id1560555666?uo=4",
+		"icon": "https://pikachu987.github.io/ProjectData/Resources/QRCode/icon.png?v=2",
+		"hintDefault": [
+		  "https://pikachu987.github.io/ProjectData/Resources/QRCode/hint_1_en.png?v=2",
+		  "https://pikachu987.github.io/ProjectData/Resources/QRCode/hint_2_en.png?v=2",
+		  "https://pikachu987.github.io/ProjectData/Resources/QRCode/hint_3_en.png?v=2",
+		  "https://pikachu987.github.io/ProjectData/Resources/QRCode/hint_4_en.png?v=2",
+		  "https://pikachu987.github.io/ProjectData/Resources/QRCode/hint_5_en.png?v=2"
+		],
+		"hintEn": [
+		  "https://pikachu987.github.io/ProjectData/Resources/QRCode/hint_1_en.png?v=2",
+		  "https://pikachu987.github.io/ProjectData/Resources/QRCode/hint_2_en.png?v=2",
+		  "https://pikachu987.github.io/ProjectData/Resources/QRCode/hint_3_en.png?v=2",
+		  "https://pikachu987.github.io/ProjectData/Resources/QRCode/hint_4_en.png?v=2",
+		  "https://pikachu987.github.io/ProjectData/Resources/QRCode/hint_5_en.png?v=2"
+		],
+		"hintKo": [
+		  "https://pikachu987.github.io/ProjectData/Resources/QRCode/hint_1_ko.png?v=2",
+		  "https://pikachu987.github.io/ProjectData/Resources/QRCode/hint_2_ko.png?v=2",
+		  "https://pikachu987.github.io/ProjectData/Resources/QRCode/hint_3_ko.png?v=2",
+		  "https://pikachu987.github.io/ProjectData/Resources/QRCode/hint_4_ko.png?v=2",
+		  "https://pikachu987.github.io/ProjectData/Resources/QRCode/hint_5_ko.png?v=2"
+		]
+	  },
+	  {
 	  "nameDefault": "Video Editor",
 	  "nameEn": "Video Editor",
 	  "nameKo": "비디오 편집기",
